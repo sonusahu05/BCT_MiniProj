@@ -912,7 +912,6 @@ function sendNFTs() {
 					<input type="text" placeholder="0x..." className="input input-bordered w-full max-w-xs" /> */}
 					
 					<div className="card-actions justify-end">
-						<button onClick={getENS} className="btn btn-secondary">Get corresponding ens</button>
 			      
 
 	
